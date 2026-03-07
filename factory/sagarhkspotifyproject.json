@@ -1,0 +1,9 @@
+{
+	"name": "sagarhkspotifyproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d3bf8e0-fbf5-45c3-8d2d-1491becd9947",
+		"tenantId": "aafcade8-e7d0-476d-a8d6-8e09246f4a64"
+	}
+}
